@@ -1,0 +1,11 @@
+body{
+    text-align: center;
+    background-color:lightblue;
+}
+#jj{
+    width: 150px;
+    border-color: black;
+    border-width: 4;
+    border-style: dotted;
+}
+    
